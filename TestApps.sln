@@ -16,8 +16,8 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{1A174B6B-2784-4976-82A0-305A8DF88F94}.Debug|Any CPU.ActiveCfg = Debug|iPhone
-		{1A174B6B-2784-4976-82A0-305A8DF88F94}.Debug|iPhone.ActiveCfg = Debug|iPhone
-		{1A174B6B-2784-4976-82A0-305A8DF88F94}.Debug|iPhone.Build.0 = Debug|iPhone
+		{1A174B6B-2784-4976-82A0-305A8DF88F94}.Debug|iPhone.ActiveCfg = Release|iPhone
+		{1A174B6B-2784-4976-82A0-305A8DF88F94}.Debug|iPhone.Build.0 = Release|iPhone
 		{1A174B6B-2784-4976-82A0-305A8DF88F94}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
 		{1A174B6B-2784-4976-82A0-305A8DF88F94}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
 		{1A174B6B-2784-4976-82A0-305A8DF88F94}.Release|Any CPU.ActiveCfg = Release|iPhone
